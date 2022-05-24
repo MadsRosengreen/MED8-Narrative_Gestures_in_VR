@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 999928065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 767f32a5daa8ae9f969fa23aa446a3c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Freja assests/kudoMovement.controller
+- Assets/Freja assests/peopleMovement.controller
+Dependencies:
+- D:/Projects/Unity Projects/P8 - Narrative Gestures/OVRAssetBundles/OVRMasterBundle/asset_anim0

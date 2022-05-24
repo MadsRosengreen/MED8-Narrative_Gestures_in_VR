@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1743205867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5f89be78bb602e3d733a6970babc637
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Freja assests/kudoIdle.anim
+- Assets/Freja assests/BasicMotions@Idle02.anim
+Dependencies: []

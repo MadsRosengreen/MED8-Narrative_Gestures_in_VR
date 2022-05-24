@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2168579158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db31bbbadc1bd06032c23283325571a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Materials/Skin_01.mat
+- Assets/Materials/Skin_01 2.mat
+- Assets/Materials/Skin_01 1.mat
+Dependencies:
+- D:/Projects/Unity Projects/P8 - Narrative Gestures/OVRAssetBundles/OVRMasterBundle/asset_shader0

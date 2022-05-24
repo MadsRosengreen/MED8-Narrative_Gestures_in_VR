@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2093274761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af2f2ef5695f0b6bfff2e5c9f62d5a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 628db310b0647d2f24e4c3c7736addea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Freja assests/Female NPC.fbx
+- Assets/Freja assests/oryx.fbx
+- Assets/Freja assests/Kudo.fbx
+- Assets/Freja assests/scene.fbx
+- Assets/Freja assests/Male NPC.fbx
+Dependencies:
+- D:/Projects/Unity Projects/P8 - Narrative Gestures/OVRAssetBundles/OVRMasterBundle/asset_shader0

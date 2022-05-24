@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2134464876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd197d7fb3f0dc2ebd94a42facfb44ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed278e11cd3e3aaf0723c921c5d5cfa8
+HashAppended: 0
+ClassTypes:
+- Class: 90
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Freja assests/Male HandsAvatar.asset
+- Assets/Freja assests/Female HandsAvatar.asset
+Dependencies: []
